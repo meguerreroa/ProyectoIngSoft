@@ -1,3 +1,13 @@
+## Clase 29/04/2019
+Presentación 1: Emprendimiento en la Universidad Nacional
+[emprendimiento Unal](https://emprentimiento.unal.edu.co)
+Presentación 2: Empatía
+
+Taller Crear base de datos Oracle en RDB Amazon.
+Costo: 27 USD
+## Clase 24/04/2019
+Ejercicio de Git en Máquina Virtual Amazon
+
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/meguerreroa/ProyectoIngSoft/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
