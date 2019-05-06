@@ -1,6 +1,11 @@
+## Clase 06/05/2019
+Presentación 1: Estimación de Software
+Presentación 2: Negociación
+REST, HTML, Restful
+
 ## Clase 29/04/2019
 Presentación 1: Emprendimiento en la Universidad Nacional
-[emprendimiento Unal](https://emprentimiento.unal.edu.co)
+[emprendimiento Unal](https://emprendimiento.unal.edu.co)
 Presentación 2: Empatía
 
 Taller Crear base de datos Oracle en RDB Amazon.
