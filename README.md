@@ -1,5 +1,8 @@
+## Clase 15/05/2019
+Presentación 1: Psicología del color en páginas web
+Uso de Docker en máquina EC-2
 ## Clase 13/05/2019
-
+Arquitecturas AWS
 ## Clase 06/05/2019
 Presentación 1: UI Interface
 Presentación 2: Docker
