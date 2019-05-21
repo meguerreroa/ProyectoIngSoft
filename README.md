@@ -1,3 +1,5 @@
+## Clase 20/05/2019
+Build y Delete de imágenes docker
 ## Clase 15/05/2019
 Presentación 1: Psicología del color en páginas web
 Uso de Docker en máquina EC-2
