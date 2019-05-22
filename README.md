@@ -1,3 +1,6 @@
+## Clase 22/05/2019
+Presentación 1: Aspectos que definen la cultura de desarrollo
+Presentación 2: Versionado de software
 ## Clase 20/05/2019
 Build y Delete de imágenes docker
 ## Clase 15/05/2019
