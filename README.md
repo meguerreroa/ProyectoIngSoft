@@ -1,3 +1,7 @@
+## Clase 27/05/2019
+Presentación 1: ISO 9001
+Presentación 2: Progressive Web app
+Finalizar taller docker
 ## Clase 22/05/2019
 Presentación 1: Aspectos que definen la cultura de desarrollo
 Presentación 2: Versionado de software
