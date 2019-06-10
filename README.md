@@ -1,3 +1,7 @@
+## Clase 10/06/2019
+
+Taller Vue.js
+
 ## Clase 05/06/2019
 
 Presentación 1: ¿Cómo hacer copywriting efectivo?
