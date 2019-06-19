@@ -1,3 +1,9 @@
+## Clase 19/06/2019
+
+Presentación 1: Template Syntax
+
+Presentación 2: Computed Properties and Watchers
+
 ## Clase 10/06/2019
 
 Taller Vue.js
