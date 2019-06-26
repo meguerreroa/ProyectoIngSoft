@@ -1,3 +1,9 @@
+## Clase 26/06/2019
+
+Presentación Class and Style Bindings
+
+Debugging
+
 ## Clase 19/06/2019
 
 Presentación 1: Template Syntax
